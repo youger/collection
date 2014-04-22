@@ -21,13 +21,14 @@ Make using `JavascriptCore` framework ( iOS 7 SDK ) easier
 
 #Imitate
 
-* [MZFormSheetController](https://github.com/m1entus/MZFormSheetController)    
+* ###[MZFormSheetController](https://github.com/m1entus/MZFormSheetController)    
 An alternative to the native iOS `UIModalPresentationFormSheet`
 
 #Tutorial
 
 * ###[AddressBookSpy](https://github.com/jfahrenkrug/AddressBookSpy)
 A demo app showcasing the use of `JavaScriptCore` in an iOS app
+
 * ###[JSCoreByExample](https://github.com/Jobot/JSCoreByExample)
 A step-by-step [tutorial][link] provides details on the basics of using `JavascriptCore` on the iOS platform
 
