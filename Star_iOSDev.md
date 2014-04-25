@@ -19,10 +19,14 @@ Make using `JavascriptCore` framework ( iOS 7 SDK ) easier
 * ###[MCSCollectionUtility](https://github.com/macoscope/MCSCollectionUtility)
 `Categories` for NSArray, NSSet and NSDictionary which provide many methods which make operations on collection easier and cleaner
 
+* ###[liftoff](https://github.com/thoughtbot/liftoff?utm_source=ios+dev+tools&utm_medium=website&utm_campaign=ios+dev+tools&at=11lvzs&ct=ios+dev+tools)
+CLI for creating and configuring new Xcode projects
+
 #Imitate
 
 * ###[MZFormSheetController](https://github.com/m1entus/MZFormSheetController)    
-An alternative to the native iOS `UIModalPresentationFormSheet`
+ An alternative to the native iOS `UIModalPresentationFormSheet`
+
 
 #Tutorial
 
@@ -33,6 +37,9 @@ A demo app showcasing the use of `JavaScriptCore` in an iOS app
 A step-by-step [tutorial][link] provides details on the basics of using `JavascriptCore` on the iOS platform
 
 [link]:http://blog.bignerdranch.com/4736-javascriptcore-example/
+
+* ###[C-41](https://github.com/AshFurrow/C-41)
+The app demonstrates how to use `Core Data`, `unit tests`, `ReactiveCocoa`, and `Model-View-ViewModel`. 
 
 #Plugin
 

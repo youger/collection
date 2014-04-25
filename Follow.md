@@ -20,7 +20,12 @@
 
 #Team
 
-1. [Macoscope][id],
+1. [Macoscope][link1]  ,
 [on github](https://github.com/macoscope)
 
-[id]:http://macoscope.com
+[link1]:http://macoscope.com
+
+2. [thoughtbot, inc.][link2]  ,
+[on github](https://github.com/thoughtbot)
+
+[link2]:http://robots.thoughtbot.com
