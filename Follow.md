@@ -20,12 +20,22 @@
 
 #Team
 
-1. [Macoscope][link1]  ,
+1. [Facebook][link1]   ,
+[on github](https://github.com/facebook)
+
+[link1]:https://code.facebook.com/projects/
+
+2. [Macoscope][link2]  ,
 [on github](https://github.com/macoscope)
 
-[link1]:http://macoscope.com
+[link2]:http://macoscope.com
 
-2. [thoughtbot, inc.][link2]  ,
+3. [thoughtbot, inc.][link3]  ,
 [on github](https://github.com/thoughtbot)
 
-[link2]:http://robots.thoughtbot.com
+[link3]:http://robots.thoughtbot.com
+
+4. [Square][link4]
+[on github](https://github.com/square)
+
+[link4]:http://square.github.io
