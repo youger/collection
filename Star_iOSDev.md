@@ -16,6 +16,11 @@ A conforming Objective-C WebSocket client library.
 * ###[BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
 iOS library to create simple line graphs/charts (*`charting library`*)
 
+##Animate
+
+* ###[AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)
+Collection of iOS 7 custom animated transitions using `UIViewControllerAnimatedTransitioning` protocol.
+
 #Utilities
 
 * ###[JavaScriptBridge](https://github.com/kishikawakatsumi/JavaScriptBridge)
@@ -26,6 +31,9 @@ Make using `JavascriptCore` framework ( iOS 7 SDK ) easier
 
 * ###[liftoff](https://github.com/thoughtbot/liftoff?utm_source=ios+dev+tools&utm_medium=website&utm_campaign=ios+dev+tools&at=11lvzs&ct=ios+dev+tools)
 CLI for creating and configuring new Xcode projects
+
+* ###[ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController)
+A clone of the `UIImagePickerController` using the Assets Library Framework allowing for multiple asset selection
 
 #Imitate
 
