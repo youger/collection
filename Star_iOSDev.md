@@ -1,6 +1,7 @@
-Frameworks
-==========
+#Frameworks
 ---
+
+
 ##JSON parse
 
 * ###[Mantle](https://github.com/MantleFramework/Mantle)
@@ -41,9 +42,10 @@ Frameworks
 * A semi-hybrid framework that allows you to create mobile apps using Objective-C and XML/CSS
 <http://www.bee-framework.com>
 
-Utilities
-==========
+
+#Utilities
 ---
+
 
 * ###[JavaScriptBridge](https://github.com/kishikawakatsumi/JavaScriptBridge)
 * Make using `JavascriptCore` framework ( iOS 7 SDK ) easier 
@@ -59,17 +61,17 @@ Utilities
 <http://samvermette.com/314>
 
 
-Imitate
-==========
+#Imitate 
 ***
+
 
 * ###[MZFormSheetController](https://github.com/m1entus/MZFormSheetController)
 * An alternative to the native iOS `UIModalPresentationFormSheet`
 
 
-Tutorial
-==========
+#Tutorial
 ***
+
 
 * ###[AddressBookSpy](https://github.com/jfahrenkrug/AddressBookSpy)
 * A demo app showcasing the use of `JavaScriptCore` in an iOS app
@@ -82,9 +84,10 @@ Tutorial
 * ###[C-41](https://github.com/AshFurrow/C-41)
 * The app demonstrates how to use `Core Data`, `unit tests`, `ReactiveCocoa`, and `Model-View-ViewModel`. 
 
-Plugins
-==========
+
+#Plugins
 ---
+
 
 * ###[FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
 * This is a Xcode 5 plugin that patches the autocomplete filter to work the same way the *`Open Quickly`* works. It performs very well, and the fuzzy matching actually uses Xcode's own `IDEOpenQuicklyPattern`.
@@ -103,9 +106,10 @@ Plugins
 * ###[XcodeBoost](https://github.com/fortinmike/XcodeBoost)
 * An Xcode plugin that aims to make altering and inspecting code quick and easy.
 
-Tools
-==========
+
+#Tools
 ***
+
 
 * ###[PonyDebugger](https://github.com/square/PonyDebugger)
 * Remote network and data debugging for your native iOS app using Chrome Developer Tools
@@ -122,3 +126,4 @@ Tools
 
 
 #Snippet
+
