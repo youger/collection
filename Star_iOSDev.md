@@ -15,12 +15,12 @@ Magical Data Modelling Framework for `JSON`. Create rapidly powerful, atomic and
 * ### [SocketRocket](https://github.com/square/SocketRocket)
 A conforming Objective-C WebSocket client library.
 
-* ### [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging)
+* ### [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging)                              
 Messaging library for iOS 7.x
 
 ## Graphs
 
-* ### [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)
+* ### [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)                    
 iOS library to create simple line graphs/charts (*`charting library`*)
 
 ## Animate
@@ -33,7 +33,7 @@ Pop is an extensible animation engine for iOS and OS X. In addition to basic sta
 
 ## Swizzling
 
-* ### [Aspects]()
+* ### [Aspects](https://github.com/steipete/Aspects)
 Think of Aspects as method swizzling on steroids. It allows you to add code to existing methods per class or per instance, whilst thinking of the insertion point e.g. before/instead/after. Aspects automatically deals with calling super and is easier to use than regular method swizzling.
 
 ## Third realized
@@ -51,7 +51,7 @@ A semi-hybrid framework that allows you to create mobile apps using Objective-C 
 Make using `JavascriptCore` framework ( iOS 7 SDK ) easier 
 
 * ### [MCSCollectionUtility](https://github.com/macoscope/MCSCollectionUtility)
-* `Categories` for NSArray, NSSet and NSDictionary which provide many methods which make operations on collection easier and cleaner
+`Categories` for NSArray, NSSet and NSDictionary which provide many methods which make operations on collection easier and cleaner
 
 * ### [ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController)
 A clone of the `UIImagePickerController` using the Assets Library Framework allowing for multiple asset selection
@@ -100,7 +100,7 @@ Code Pilot is a plugin for Xcode 5 that allows you to quickly find files, method
 Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!` <http://imi.im/post/>xtodo
 
 * ### [XAlign](https://github.com/qfish/XAlign)
-* An amazing Xcode plugin to align regular code. it can *`align`* Xnything in any way you want. 
+An amazing Xcode plugin to align regular code. it can *`align`* Xnything in any way you want. 
 <http://qfi.sh/XAlign/>
 
 * ### [XcodeBoost](https://github.com/fortinmike/XcodeBoost)
