@@ -35,7 +35,12 @@
 
 [link3]:http://robots.thoughtbot.com
 
-4. [Square][link4]
+4. [Square][link4],
 [on github](https://github.com/square)
 
 [link4]:http://square.github.io
+
+5. [SocialObjects Software][link5],
+[on github](https://github.com/SocialObjects-Software)
+
+[link5]:http://socialobjects.am
