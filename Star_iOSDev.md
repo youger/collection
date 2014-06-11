@@ -23,6 +23,9 @@ Messaging library for iOS 7.x
 * ### [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph)                    
 iOS library to create simple line graphs/charts (*`charting library`*)
 
+* ### [GPUImage](https://github.com/BradLarson/GPUImage)                       
+An open source iOS framework for GPU-based image and video processing.
+
 ## Animate
 
 * ### [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery)
@@ -41,6 +44,14 @@ Think of Aspects as method swizzling on steroids. It allows you to add code to e
 * ### [BeeFramework](http://github.com/gavinkwoe/BeeFramework)
 A semi-hybrid framework that allows you to create mobile apps using Objective-C and XML/CSS
 <http://www.bee-framework.com>
+
+* ### [nimbus](https://github.com/jverkoey/nimbus)                       
+Nimbus is an iOS framework whose feature set grows only as fast as its documentation.
+
+## Block
+
+* ### [BlocksKit](https://github.com/zwaldowski/BlocksKit)          
+The Objective-C block utilities you always wish you had.
 
 
 # Utilities
