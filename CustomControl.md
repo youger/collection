@@ -48,3 +48,7 @@
 * ###[PopoverView](https://github.com/runway20/PopoverView)  
 A simple UIView popover control for iPhone/iPad written in CoreGraphics(利用UIBezierPath绘制)
   
+#ActivityView
+
+* ###[PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)
+Collection of highly customizable loaders for your iOS projects
