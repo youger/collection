@@ -134,7 +134,11 @@ Set of handy `LLDB commands` that will dramatically improve your debugging workf
 
 * ### [liftoff](https://github.com/thoughtbot/liftoff?utm_source=ios+dev+tools&utm_medium=website&utm_campaign=ios+dev+tools&at=11lvzs&ct=ios+dev+tools)
 CLI for creating and configuring new Xcode projects
-
+  
+  
+* ### [CRChecker](https://github.com/duowan/CRChecker)  
+CRChecker is a debug tool, helps you find out circular reference problem. 
+<http://www.duowan.com/>
 
 # Snippet
 
