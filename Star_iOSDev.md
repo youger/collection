@@ -1,4 +1,3 @@
-```  
 # Frameworks
 
 ### JSON parse
@@ -96,6 +95,7 @@
 **[liftoff](https://github.com/thoughtbot/liftoff?utm_source=ios+dev+tools&utm_medium=website&utm_campaign=ios+dev+tools&at=11lvzs&ct=ios+dev+tools)** | CLI for creating and configuring new Xcode projects
 **[CRChecker](https://github.com/duowan/CRChecker)** | CRChecker is a debug tool, helps you find out circular reference problem.<http://www.duowan.com/>
 **[class-dump](https://github.com/nygard/class-dump)** | Generate Objective-C headers from Mach-O files.<http://stevenygard.com/projects/class-dump>
+**[xctool](https://github.com/facebook/xctool)** | A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
 
 # Snippet
 
