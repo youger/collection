@@ -83,7 +83,8 @@
 **[CodePilot](https://github.com/macoscope/CodePilot)** | Code Pilot is a plugin for Xcode 5 that allows you to quickly find files, methods and symbols within your project without the need for your mouse. It uses fuzzy query matching to compute a list of results sorted by their relevancy. With just a few keystrokes you can jump to the method you're looking for.
 **[XToDo](https://github.com/trawor/XToDo)** | Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`<http://imi.im/post/>xtodo
 **[XAlign](https://github.com/qfish/XAlign)** | An amazing Xcode plugin to align regular code. it can *`align`* Xnything in any way you want.<http://qfi.sh/XAlign/>
-**[XcodeBoost](https://github.com/fortinmike/XcodeBoost)**| An Xcode plugin that aims to make altering and inspecting code quick and easy.
+**[XcodeBoost](https://github.com/fortinmike/XcodeBoost)**| An Xcode plugin that aims to make altering and inspecting code quick and easy.  
+**[ObjectGraph-Xcode]()** | ObjectGraph can show oriented graph of dependencies between classes in your project. This plugin is based on objc_dep and Graphviz.
 
 # Tools
 
