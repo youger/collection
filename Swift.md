@@ -10,4 +10,4 @@
 
 |   name      |     desc      |
 |------------ | ------------- |  
-|**[swift-weekly](https://github.com/vandadnp/swift-weekly)** | Swift Weekly is an exciting and new weekly magazine for Swift programming language enthusiasts.|
+|**[swift-weekly](https://github.com/vandadnp/swift-weekly)** | Swift Weekly is an exciting and new weekly magazine for Swift programming language enthusiasts.|  

@@ -25,6 +25,8 @@
 * [Parallax Slider](http://dreamsky.github.io/main/blog/parallax-slider/)  
 视差滚动滑块
 
+* [PacVim](https://github.com/jmoon018/PacVim)  
+练习使用vim  
 
 #Awesome WebSite  
 * [disqus](http://disqus.com)  

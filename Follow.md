@@ -29,4 +29,7 @@
 |4. **[Square](https://github.com/square)** | <http://square.github.io> |
 |5. **[SocialObjects Software](https://github.com/SocialObjects-Software)** | <http://socialobjects.am> |
 |6. **[NOUSguide Inc. / NOUS Wissensmanagement GmbH](https://github.com/NOUSguide)** | <http://www.nousguide.com> |  
-|7. **[Be My Eyes]()** | <http://www.bemyeyes.org/> |
+|7. **[Be My Eyes]()** | <http://www.bemyeyes.org/> |  
+|8. **[Slack](https://github.com/slackhq)**| <http://slack.com>|
+|8. **[Yalantis](https://github.com/Yalantis)**| <http://www.yalantis.com>|
+
