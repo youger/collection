@@ -29,7 +29,8 @@
 练习使用vim  
 
 #Awesome WebSite  
-* [disqus](http://disqus.com)  
+* [disqus](http://disqus.com)    
+* [ACTIVATION NODEPLUS]](http://www.nodeplus.cn/)
 
 #Official WebSite  
   
