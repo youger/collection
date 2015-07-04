@@ -44,4 +44,5 @@
   
 * [paintcode](http://www.paintcodeapp.com/)  
 图画转代码
-* [LaunchKit](https://launchkit.io/screenshots?ref=idw&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_205)Create gorgeous images for your App Store page in minutes.
+* [LaunchKit](https://launchkit.io/screenshots?ref=idw&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_205)
+Create gorgeous images for your App Store page in minutes.
